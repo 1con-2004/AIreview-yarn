@@ -20,3 +20,7 @@
 1. yarn install
 2. yarn init-db
 3. yarn dev
+
+## 初始账户
+- 用户名: icon
+- 密码: 123456
